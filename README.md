@@ -1,6 +1,6 @@
 # GOGOCODE
 
-kengnengnngegegeg全网最简单易上手，可读性最强的 AST 处理工具！
+kengnengnngegegeg全网最简单易上手，可读性最强的 AST 处理工具！代码转换从未如此简单
 
 官网：https://gogocode.io
 
